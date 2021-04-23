@@ -1,4 +1,4 @@
-# todo
+# Todo
 A simple core PHP based website 
   features:
     add public task.
@@ -6,4 +6,4 @@ A simple core PHP based website
     edit, delete and search task.
     
 deployed project -->
-  vikush.ultimatefreehost.in/crud
+  http://vikush.ultimatefreehost.in/crud/
